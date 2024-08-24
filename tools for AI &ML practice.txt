@@ -1,0 +1,10 @@
+tools for AI &ML practice
+rapid miner
+Orange-clustering
+KNIME
+
+LO CODE /NO CODE
+
+PROGRAM,
+ASSIGNMENT-HELLO WORLD PROGRAM
+PROJECT
